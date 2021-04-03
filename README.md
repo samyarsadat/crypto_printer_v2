@@ -3,7 +3,7 @@ Get a paper hard copy of the price for some crypto currencies at the push of a b
 
 # Documentation in progress !
 
-## Hardware :
+## Components :
 
 1. Raspberry Pi 4B 4GB RAM (Tested on a pi4, but it should also work with a pi3 or pi2)
 2. [Mini Thermal Receipt Printer](https://www.adafruit.com/product/597) (From adafruit)
@@ -22,7 +22,9 @@ Get a paper hard copy of the price for some crypto currencies at the push of a b
     
     
     
+## Hardware :
 ### Wiring diagram :
+
 ![wiring_diagram_v2](https://user-images.githubusercontent.com/79406608/113473772-53eb9f80-9474-11eb-8e1f-35f840ca145b.jpg)
 
 
