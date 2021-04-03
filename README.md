@@ -1,8 +1,6 @@
 # Crypto Printer V2
 Get a paper hard copy of the price for some crypto currencies at the push of a button.
 
-# Documentation in progress !
-
 ## Components :
 
 1. Raspberry Pi 4B 4GB RAM (Tested on a pi4, but it should also work with a pi3 or pi2)
