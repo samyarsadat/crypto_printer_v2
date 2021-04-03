@@ -104,4 +104,6 @@ To run the code open a terminal window and type :
 Now the code will start runing. To print the prices push the button and wait.                                                                                                   
 **Due to the CoinGecko API's slow speed, the program might sometimes get stuck for a bit**                
 
+**To stop the code you can close the terminal or hold the `ctrl` key and then press `c` on the keyboard. now you can release the `ctrl` key. (Or basically `ctrl + c`)**      
+
 **To test the printer, instead of typing `python3 crypto_printer_V2.py` type `python3 printertest.py`**
