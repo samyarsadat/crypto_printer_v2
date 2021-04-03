@@ -41,7 +41,7 @@ One of the pins on the button connects to a ground (GND) pin on the pi and the o
 First download the installation file :
 [install.zip](https://github.com/samyarsadat/crypto_printer_v2/files/6252267/install.zip)
 
-Unzip it on the your Raspberry Pi and then double click on **install.sh**. something like this will apear :
+Unzip it on your Raspberry Pi and then double click on **install.sh**. something like this will apear :
 
 ![2021-04-02-235737_1920x1080_scrot](https://user-images.githubusercontent.com/79406608/113474279-c3af5980-9477-11eb-809d-b3d89b798797.png)
 
