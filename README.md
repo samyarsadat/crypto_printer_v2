@@ -31,6 +31,8 @@ Get a paper hard copy of the price for some crypto currencies at the push of a b
 The thermal printer's RX pin (usualy the yellow wire) connects to GPIO 14 on the Raspberry pi.                                                                                   
 **DO NOT CONNECT THE TX (USUALY GREEN) WIRE OF THE THERMAL PRINTER TO THE PI. IT IS 5V AND IT MIGHT PERMANENTLY DAMAGE YOUR RASPBERRY PI.**
 
+The thermal printer's GND (black) wire connects to a ground (GND) pin on the pi.
+
 The led's cathode connects to a ground (GND) pin on the pi and the anode to GPIO 24.
 
 One of the pins on the button connects to a ground (GND) pin on the pi and the other to GPIO 23.
