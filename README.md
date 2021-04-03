@@ -15,7 +15,7 @@ Get a paper hard copy of the price for some crypto currencies at the push of a b
 9. A mouse and keyboard for the Raspberry Pi
 10. A suitable HDMI cable for the Raspberry Pi
 11. A suitable display or monitor for the Raspberry Pi
-#### For Raspberry Pi 2 users (Without wifi) :
+**For Raspberry Pi 2 users (Without wifi) :**
 1. Option : A USB wifi dongle
 2. Option : A direct connection with an ethernet cable
 
