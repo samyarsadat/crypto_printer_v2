@@ -1,6 +1,8 @@
 # Crypto Printer V2
 Get a paper hard copy of the price for some crypto currencies at the push of a button.
 
+# Documentation in progress !
+
 ## Components :
 
 1. Raspberry Pi 4B 4GB RAM (Tested on a pi4, but it should also work with a pi3 or pi2)
@@ -92,8 +94,10 @@ If not then type this into the terminal : `sudo reboot now` and hit enter.
 Now the pi will reboot and the software installation will be completed !                                                                                                        
 
 # Runing the code :
-To run the code open a terminal window then type `cd Crypto_Printer_V2` hit enter and then type `python3 crypto_printer_V2.py` and hit enter.                                      
+To run the code open a terminal window and type :                                                                                                                            
+`cd Crypto_Printer_V2` hit enter. then type `python3 crypto_printer_V2.py` and hit enter. 
+
 Now the code will start runing. To print the prices push the button and wait.                                                                                                   
 **Due to the CoinGecko API's slow speed, the program might sometimes get stuck for a bit**                
 
-**To test the printer instead of typing `python3 crypto_printer_V2.py` type `python3 printertest.py`**
+**To test the printer, instead of typing `python3 crypto_printer_V2.py` type `python3 printertest.py`**
