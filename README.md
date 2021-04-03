@@ -95,7 +95,7 @@ Now the pi will reboot and the software installation will be completed !
 
 # Runing the code :
 To run the code open a terminal window and type :                                                                                                                            
-`cd Crypto_Printer_V2` hit enter. then type `python3 crypto_printer_V2.py` and hit enter. 
+`cd crypto_printer_v2` hit enter. then type `python3 crypto_printer_V2.py` and hit enter. 
 
 Now the code will start runing. To print the prices push the button and wait.                                                                                                   
 **Due to the CoinGecko API's slow speed, the program might sometimes get stuck for a bit**                
