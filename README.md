@@ -38,10 +38,14 @@ One of the pins on the button connects to a ground (GND) pin on the pi and the o
 
 ## Software :
 
-First download the installation file :
+**First you must install Raspberry Pi OS on to your micro SD card and then insert it in to your Raspberry Pi.                                                                   
+If you don't know how to do this, [Click here](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up).**
+
+Next download the installation file :
 [install.zip](https://github.com/samyarsadat/crypto_printer_v2/files/6252267/install.zip)
 
-Unzip it on your Raspberry Pi and then double click on **install.sh**. something like this will apear :
+Unzip it on your Raspberry Pi and then double click on **install.sh**. something like this will apear :                                                                        
+**If you don't know how to unzip files on the pi, [Click here](https://magpi.raspberrypi.org/articles/unzip-and-uncompress-files-on-a-raspberry-pi).**
 
 ![2021-04-02-235737_1920x1080_scrot](https://user-images.githubusercontent.com/79406608/113474279-c3af5980-9477-11eb-809d-b3d89b798797.png)
 
@@ -51,4 +55,22 @@ Click on "Execute in Terminal". A terminal window will open. Now just wait for a
 
 When the installation is completed, you should get a message in the terminal saying "Installation completed successfuly !" "Closing in 20 seconds" 
 
-After that there is only one small thing left to do; Configuring the serial port on the pi :
+After that there is only one small thing left to do; Configuring the serial port on the pi :                                                                                     
+First open a terminal window. The terminal icon looks like this :    
+
+![Terminal icon](https://user-images.githubusercontent.com/79406608/113474972-aed4c500-947b-11eb-99c3-81124b9149e9.png)
+
+Next type `sudo raspi-config` in the terminal and hit enter :                                                                                                                                                                                        
+
+![2021-04-03-000913_1920x1080_scrot](https://user-images.githubusercontent.com/79406608/113475102-4b976280-947c-11eb-9cc6-d30caf199e33.png)
+
+The conifiguration tool will open. press the down cursor key twice to select "3 Interface Options". Then hit enter :
+
+![Untitled](https://user-images.githubusercontent.com/79406608/113475246-0de70980-947d-11eb-955d-9c5e50c46af4.png)
+
+When the interface options menu opens, press the down cursor key 5 times to select "P6 Serial Port". Then hit enter :
+
+![2021-04-03-000929_1920x1080_scrot](https://user-images.githubusercontent.com/79406608/113475480-a205a080-947e-11eb-9d89-5737c7cbb53d.png)
+
+
+
