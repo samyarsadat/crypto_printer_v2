@@ -40,11 +40,6 @@ pip3 install pycoingecko
 pip3 install gpiozero
 
 echo " "
-echo "Making a new folder (directory) called Crypto_Printer_V2 and moving into it ..."
-mkdir Crypto_Printer_V2
-cd Crypto_Printer_V2
-
-echo " "
 echo "Cloning the thermal printer library and the main code from the Crypto Printer V2 github repo ..."
 git clone https://github.com/samyarsadat/crypto_printer_v2
 

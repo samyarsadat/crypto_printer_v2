@@ -10,8 +10,8 @@ echo "Removing adafruit driver for thr ZJ-58 thermal printer ..."
 rm -R -f zj-58
 
 echo " "
-echo "Deleting the folder (directory) called Crypto_Printer_V2 ..."
-rm -R -f Crypto_Printer_V2
+echo "Deleting the folder (directory) called crypto_printer_v2 ..."
+rm -R -f crypto_printer_v2
 
 echo " "
 echo "Uninstallation completed successfuly !"
