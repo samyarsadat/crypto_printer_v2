@@ -45,7 +45,7 @@ Next download the installation file :
 [install.zip](https://github.com/samyarsadat/crypto_printer_v2/files/6252267/install.zip)
 
 Unzip it on your Raspberry Pi and then double click on **install.sh**. something like this will apear :                                                                        
-**If you don't know how to unzip files on the pi, [Click here](https://magpi.raspberrypi.org/articles/unzip-and-uncompress-files-on-a-raspberry-pi).**
+**If you don't know how to unzip zip files on the pi, [Click here](https://magpi.raspberrypi.org/articles/unzip-and-uncompress-files-on-a-raspberry-pi).**
 
 ![2021-04-02-235737_1920x1080_scrot](https://user-images.githubusercontent.com/79406608/113474279-c3af5980-9477-11eb-809d-b3d89b798797.png)
 
@@ -71,6 +71,20 @@ The conifiguration tool will open. press the down cursor key twice to select "3 
 When the interface options menu opens, press the down cursor key 5 times to select "P6 Serial Port". Then hit enter :
 
 ![2021-04-03-000929_1920x1080_scrot](https://user-images.githubusercontent.com/79406608/113475480-a205a080-947e-11eb-9d89-5737c7cbb53d.png)
+
+Next this screen will apear. With your left and right cursor keys select No and hit enter :
+
+![2021-04-03-000938_1920x1080_scrot](https://user-images.githubusercontent.com/79406608/113475739-11c85b00-9480-11eb-90bb-7939810f36c1.png)
+
+After that this screen will apear. With your left and right cursor keys select Yes and hit enter :
+
+![2021-04-03-000942_1920x1080_scrot](https://user-images.githubusercontent.com/79406608/113475794-46d4ad80-9480-11eb-80a9-8743c6fff674.png)
+
+When this screen apears just hit enter :
+
+![2021-04-03-000945_1920x1080_scrot](https://user-images.githubusercontent.com/79406608/113475875-7aafd300-9480-11eb-9049-c6c13b912eea.png)
+
+
 
 
 
