@@ -19,6 +19,7 @@ Get a paper hard copy of the price for some crypto currencies at the push of a b
 1. Option : A USB wifi dongle
 2. Option : A direct connection with an ethernet cable
 
+    
 Wiring diagram :
 
 
