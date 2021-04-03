@@ -5,7 +5,7 @@ Get a paper hard copy of the price for some crypto currencies at the push of a b
 
 ## Hardware :
 
-1. Raspberry Pi 4B 4GB RAM (Tested on a pi4, but it should work with ANY Raspberry Pi runing Raspberry Pi OS)
+1. Raspberry Pi 4B 4GB RAM (Tested on a pi4, but it should also work with a pi3 or pi2)
 2. [Mini Thermal Receipt Printer](https://www.adafruit.com/product/597) (From adafruit)
 3. 2 Pin momentary push button 
 4. 5mm LED (Any color)
@@ -15,6 +15,9 @@ Get a paper hard copy of the price for some crypto currencies at the push of a b
 9. A mouse and keyboard for the Raspberry Pi
 10. A suitable HDMI cable for the Raspberry Pi
 11. A suitable display or monitor for the Raspberry Pi
+### 12. For Raspberry Pi 2 users (Without wifi) :
+####    1. Option : A USB wifi dongle
+####    2. Option : A direct connection with an ethernet cable
 
 Wiring diagram :
 
