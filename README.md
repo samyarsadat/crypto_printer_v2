@@ -42,7 +42,8 @@ One of the pins on the button connects to a ground (GND) pin on the pi and the o
 If you don't know how to do this, [Click here](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up).**
 
 Next download the installation file :
-[install.zip](https://github.com/samyarsadat/crypto_printer_v2/files/6252267/install.zip)
+[install.zip](https://github.com/samyarsadat/crypto_printer_v2/files/6252396/install.zip)
+
 
 Unzip it on your Raspberry Pi and then double click on **install.sh**. something like this will apear :                                                                        
 **If you don't know how to unzip zip files on the pi, [Click here](https://magpi.raspberrypi.org/articles/unzip-and-uncompress-files-on-a-raspberry-pi).**
@@ -72,11 +73,11 @@ When the interface options menu opens, press the down cursor key 5 times to sele
 
 ![2021-04-03-000929_1920x1080_scrot](https://user-images.githubusercontent.com/79406608/113475480-a205a080-947e-11eb-9d89-5737c7cbb53d.png)
 
-Next this screen will apear. With your left and right cursor keys select No and hit enter :
+Next this screen will apear. With the left and right cursor keys select No and hit enter :
 
 ![2021-04-03-000938_1920x1080_scrot](https://user-images.githubusercontent.com/79406608/113475739-11c85b00-9480-11eb-90bb-7939810f36c1.png)
 
-After that this screen will apear. With your left and right cursor keys select Yes and hit enter :
+After that this screen will apear. With the left and right cursor keys select Yes and hit enter :
 
 ![2021-04-03-000942_1920x1080_scrot](https://user-images.githubusercontent.com/79406608/113475794-46d4ad80-9480-11eb-80a9-8743c6fff674.png)
 
@@ -84,7 +85,17 @@ When this screen apears just hit enter :
 
 ![2021-04-03-000945_1920x1080_scrot](https://user-images.githubusercontent.com/79406608/113475875-7aafd300-9480-11eb-9049-c6c13b912eea.png)
 
+Next you will return to this screen. Here using the left and right cursor keys select Finish and hit enter :
 
+![2021-04-03-000955_1920x1080_scrot](https://user-images.githubusercontent.com/79406608/113475952-f7db4800-9480-11eb-8872-4f4091c9d55a.png)
 
+Then you will be prompted to reboot, using the left and right cursor keys select Yes and hit enter.                                                                             
+If not then type this into the terminal : `sudo reboot now` and hit enter.                                                                                                       
+Now the pi will reboot and the software installation will be completed !                                                                                                        
 
+# Runing the code :
+To run the code open a terminal window then type `cd Crypto_Printer_V2` hit enter and then type `python3 crypto_printer_V2.py` and hit enter.                                      
+Now the code will start runing. To print the prices push the button and wait.                                                                                                   
+**Due to the CoinGecko API's slow speed, the program might sometimes get stuck for a bit**                
 
+**To test the printer instead of typing `python3 crypto_printer_V2.py` type `python3 printertest.py`**
