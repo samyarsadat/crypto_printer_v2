@@ -109,3 +109,10 @@ Now the code will start runing. To print the prices push the button and wait.
 **To stop the code you can close the terminal or hold the `ctrl` key and then press `c` on the keyboard. now you can release the `ctrl` key. (Or basically `ctrl + c`)**      
 
 **To test the printer, instead of typing `python3 crypto_printer_V2.py` type `python3 printertest.py`**
+
+# Modifing the code :
+### Opening the code in the thonny python IDE :
+
+The thonny python IDE by default comes with Raspberry Pi OS. You can view, edit and run python codes with thonny.                                                               
+To open the main code for this project open the file manager on the pi. The file managers icon looks like this :
+
