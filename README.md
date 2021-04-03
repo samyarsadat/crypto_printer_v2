@@ -23,7 +23,7 @@ Get a paper hard copy of the price for some crypto currencies at the push of a b
     
     
 ### Wiring diagram :
-
+![wiring_diagram_v2](https://user-images.githubusercontent.com/79406608/113473772-53eb9f80-9474-11eb-8e1f-35f840ca145b.jpg)
 
 
 
