@@ -46,7 +46,7 @@ cd Crypto_Printer_V2
 
 echo " "
 echo "Cloning the thermal printer library and the main code from the Crypto Printer V2 github repo ..."
-git clone https://github.com/
+git clone https://github.com/samyarsadat/crypto_printer_v2
 
 echo " "
 echo "Installation completed successfuly !"
