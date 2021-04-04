@@ -148,3 +148,10 @@ To run the code click the Run button and to stop the code click the Stop button 
 ![thonny 2](https://user-images.githubusercontent.com/79406608/113503296-9c20c580-9539-11eb-9847-55d035403813.png)
 
 **For more information about thonny, [Click here](https://magpi.raspberrypi.org/articles/thonny).**
+
+### Changing the currency of prices :
+
+You can change the currency that the prices are printed in.                                                                                                                     
+To do this, open the main (crypto_printer_V2.py) code in thonny (as described above) and scroll down to line 72 :
+
+
