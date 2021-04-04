@@ -135,7 +135,7 @@ The rest of the files and folders (directories) are for other purposes :
 
 ![edited_2](https://user-images.githubusercontent.com/79406608/113502577-d5573680-9535-11eb-857b-9886811be490.png)
 
-To open the python code files, right click on them and then click on Thonny python IDE. Now thonny will open and you can edit the code :
+To open the python code files (.py), right click on them and then click on Thonny python IDE. Now thonny will open and you can edit the code :
 
 ![2021-04-03-194243_1920x1080_scrot](https://user-images.githubusercontent.com/79406608/113503168-c756e500-9538-11eb-85f9-537396f8cdd9.png)
 
