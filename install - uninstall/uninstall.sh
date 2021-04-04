@@ -6,7 +6,7 @@ echo "Starting ..."
 cd ~
 
 echo " "
-echo "Removing adafruit driver for thr ZJ-58 thermal printer ..."
+echo "Removing adafruit driver for the ZJ-58 thermal printer ..."
 rm -R -f zj-58
 
 echo " "
