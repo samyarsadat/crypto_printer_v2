@@ -116,3 +116,13 @@ Now the code will start runing. To print the prices push the button and wait.
 The thonny python IDE by default comes with Raspberry Pi OS. You can view, edit and run python codes with thonny.                                                               
 To open the main code for this project open the file manager on the pi. The file managers icon looks like this :
 
+![file manager](https://user-images.githubusercontent.com/79406608/113502306-341bb080-9534-11eb-84ba-d866ed0c4bd1.png)
+
+The file manager window will open. By default file manager opens in the directory that the crypto_printer_v2 folder is. Now open the crypto_printer_v2 folder :
+
+![edited_1](https://user-images.githubusercontent.com/79406608/113502353-95438400-9534-11eb-9b01-8f000bfb3a7c.png)
+
+Inside the folder there are 3 main python codes : 
+1. Adafruit_Thermal.py (The "library" for the thermal printer from adafruit)
+2. crypto_printer_V2.py (The main code for the project written by me)
+3. printertest.py (The test code for the thermal printer from adafruit)
