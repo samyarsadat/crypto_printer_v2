@@ -1,6 +1,14 @@
 # Crypto Printer V2
 Get a paper hard copy of the price for some crypto currencies at the push of a button.
 
+## About :
+Get a paper copy of the price for 4 crypto currencies :                                                                                                                         
+**NOTE : The currency for the returned price is settable. For more info, please check the bottom of this document.**
+1. Bitcoin
+2. Ethereum
+3. Binance coin
+4. Cardano
+
 ## Components :
 
 1. Raspberry Pi 4B 4GB RAM (Tested on a pi4, but it should also work with a pi3 or pi2)
