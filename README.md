@@ -116,7 +116,7 @@ Now the code will start runing. To print the prices push the button and wait.
 
 **To test the printer, instead of typing `python3 crypto_printer_V2.py` type `python3 printertest.py`**
 
-# Modifing the code :
+# Modifying the code :
 ### Opening the code in the thonny python IDE :
 
 The thonny python IDE by default comes with Raspberry Pi OS. You can view, edit and run python codes with thonny.                                                               
