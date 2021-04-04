@@ -127,15 +127,24 @@ Inside the folder there are 3 main python codes :
 2. crypto_printer_V2.py (The main code for the project written by me)
 3. printertest.py (The test code for the thermal printer from adafruit)                                                                                                         
 
-![edited_2](https://user-images.githubusercontent.com/79406608/113502577-d5573680-9535-11eb-857b-9886811be490.png)
-
 The rest of the files and folders (directories) are for other purposes :
 1. README.md (This file that you are reading right now)
 2. gfx (The bitmaps and graphics for the printertest.py code)
 3. Wiring (The wiring diagram for this project in .JPG image format and .FZZ fritzing format)
 4. install - uninstall (Contains install.sh and uninstall.sh. to run these, follow the steps above for runing install.sh (follow the same steps for uninstall.sh))
 
+![edited_2](https://user-images.githubusercontent.com/79406608/113502577-d5573680-9535-11eb-857b-9886811be490.png)
+
 To open the python code files, right click on them and then click on Thonny python IDE. Now thonny will open and you can edit the code :
 
 ![2021-04-03-194243_1920x1080_scrot](https://user-images.githubusercontent.com/79406608/113503168-c756e500-9538-11eb-85f9-537396f8cdd9.png)
 
+To save your changes click the Save button :
+
+![thonny 1](https://user-images.githubusercontent.com/79406608/113503245-4ba96800-9539-11eb-8145-31ddba299a1f.png)
+
+To run the code click the Run button and to stop the code click the Stop button :
+
+![thonny 2](https://user-images.githubusercontent.com/79406608/113503296-9c20c580-9539-11eb-9847-55d035403813.png)
+
+**For more information abou thonny, [Click here](https://magpi.raspberrypi.org/articles/thonny).**
