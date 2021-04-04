@@ -224,6 +224,5 @@ The rest of supported crypto and normal currencies :
 54. bits
 55. sats
 
-After you have made your changes, save yhe code with the Save button, run it with the Run button and Stop the code with the Stop button.
-
+After you have made your changes, save yhe code with the Save button, run it with the Run button and Stop the code with the Stop button.                                         
 #### Thanks for following allong and reading this document. I hope that you have enjoyed this project. Have a nice day :)
