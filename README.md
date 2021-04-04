@@ -126,3 +126,6 @@ Inside the folder there are 3 main python codes :
 1. Adafruit_Thermal.py (The "library" for the thermal printer from adafruit)
 2. crypto_printer_V2.py (The main code for the project written by me)
 3. printertest.py (The test code for the thermal printer from adafruit)
+
+![edited_2](https://user-images.githubusercontent.com/79406608/113502577-d5573680-9535-11eb-857b-9886811be490.png)
+
