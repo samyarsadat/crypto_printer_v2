@@ -1,8 +1,6 @@
 # Crypto Printer V2
 Get a paper hard copy of the price for some crypto currencies at the push of a button.
 
-# Documentation in progress !
-
 ## Components :
 
 1. Raspberry Pi 4B 4GB RAM (Tested on a pi4, but it should also work with a pi3 or pi2)
@@ -152,7 +150,79 @@ To run the code click the Run button and to stop the code click the Stop button 
 ### Changing the currency of prices :
 
 You can change the currency that the prices are printed in.                                                                                                                     
-To do this, open the main (crypto_printer_V2.py) code in thonny (as described above) and scroll down to line 72 :
+To do this, open the main (crypto_printer_V2.py) code in thonny (as described above) and scroll down to line 72 :                                                               
 
 ![2021-04-03-194317_1920x1080_scrot](https://user-images.githubusercontent.com/79406608/113505999-c62eb380-954a-11eb-8f63-013f74c45cfb.png)
 
+Here you can change the three letters inside the single quotation marks. You can change it to any currency as long as CoinGecko supports it.                                     
+Here is the list of supported currencies :                                                                                                                                       
+**NOTE : Some of these currencies are actualy crypto currencies themselvs; So as well as normal currencies you can get the prices in some crypto currencies.**
+
+Some popular currencies :
+1. usd (US dollars)
+2. eur (Euro)
+3. cad (Canadian dollars)
+4. aud (Australian dollars)
+5. btc (Bitcoin)
+6. eth (Ethereum)
+
+The rest of supported crypto and normal currencies :
+1. ltc
+2. bch
+3. bnb
+4. eos
+5. xrp
+6. xlm
+7. link
+8. dot
+9. yfi
+10. aed
+11. ars
+12. bdt
+13. bhd
+14. bmd
+15. brl
+16. chf
+17. clp
+18. cny
+19. czk
+20. dkk
+21. gbp
+22. hkd
+23. huf
+24. idr
+25. ils
+26. inr
+27. jpy
+28. krw
+29. kwd
+30. lkr
+31. mmk
+32. mxn
+33. myr
+34. ngn
+35. nok
+36. nzd
+37. php
+38. pkr
+39. pln
+40. rub
+41. sar
+42. sek
+43. sgd
+44. thb
+45. try
+46. twd
+47. uah
+48. vef
+49. vnd
+50. zar
+51. xdr
+52. xag
+53. xau
+54. bits
+55. sats
+
+After you have made your changes, save yhe code with the Save button, run it with the Run button and Stop the code with the Stop button.
+
+#### Thanks for following allong and reading this document. I hope that you have enjoyed this project. Have a nice day :)
