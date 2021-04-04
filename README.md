@@ -225,4 +225,4 @@ The rest of supported crypto and normal currencies :
 55. sats
 
 After you have made your changes, save yhe code with the Save button and run it with the Run button.                                                                             
-#### Thanks for following allong and reading this document. I hope that you have enjoyed this project. Have a nice day :)
+__*Thanks for following allong and reading this document. I hope that you have enjoyed this project. Have a nice day :)*__
