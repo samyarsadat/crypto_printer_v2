@@ -18,11 +18,11 @@ echo "Installing git, cups, wiringpi, build-essential, libcups2-dev, libcupsimag
 sudo apt-get install git cups wiringpi build-essential libcups2-dev libcupsimage2-dev python-serial python-pil python-unidecode -y
 
 echo " "
-echo "Cloning adafruit driver for thr ZJ-58 thermal printer ..."
+echo "Cloning adafruit driver for the ZJ-58 thermal printer ..."
 git clone https://github.com/adafruit/zj-58
 
 echo " "
-echo "Installing adafruit driver for thr ZJ-58 thermal printer ..."
+echo "Installing adafruit driver for the ZJ-58 thermal printer ..."
 cd zj-58
 make
 sudo ./install
