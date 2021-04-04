@@ -155,6 +155,7 @@ To do this, open the main (crypto_printer_V2.py) code in thonny (as described ab
 ![2021-04-03-194317_1920x1080_scrot](https://user-images.githubusercontent.com/79406608/113505999-c62eb380-954a-11eb-8f63-013f74c45cfb.png)
 
 Here you can change the three letters inside the single quotation marks. You can change it to any currency as long as CoinGecko supports it.                                     
+
 Here is the list of supported currencies :                                                                                                                                       
 **NOTE : Some of these currencies are actualy crypto currencies themselvs; So as well as normal currencies you can get the prices in some crypto currencies.**
 
