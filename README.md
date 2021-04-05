@@ -3,7 +3,7 @@ Get a paper hard copy of the price for some crypto currencies at the push of a b
 
 ## About :
 Get a paper copy of the price for 4 crypto currencies :                                                                                                                         
-**NOTE : The currency for the returned price is settable. For more info, please check the bottom of this document.**
+**NOTE : The currency for the returned price is settable. For more info, please [click here](https://github.com/samyarsadat/crypto_printer_v2#changing-the-currency-of-prices-).**
 1. Bitcoin
 2. Ethereum
 3. Binance coin
