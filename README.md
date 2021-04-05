@@ -1,6 +1,8 @@
 # Crypto Printer V2
 Get a paper hard copy of the price for some crypto currencies at the push of a button.
 
+### Powered by the CoinGecko API V3.
+
 ## About :
 Get a paper copy of the price for 4 crypto currencies :                                                                                                                         
 **NOTE : The currency for the returned price is settable. For more info, please [click here](https://github.com/samyarsadat/crypto_printer_v2#changing-the-currency-of-prices-).**
