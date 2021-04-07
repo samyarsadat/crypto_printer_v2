@@ -55,7 +55,7 @@ Next download the installation file :
 [install.zip](https://github.com/samyarsadat/crypto_printer_v2/files/6252462/install.zip)
 
 
-Unzip it on your Raspberry Pi and then right click on **install.sh**. Then click on properties. A window will open. Go to the prmissions tab and click on Execute. some options will appear. click on anyone and then click on OK :                                                                                                                             
+Unzip it on your Raspberry Pi and then right click on **install.sh**. Then click on properties. A window will open. Go to the permissions tab and click on Execute. some options will appear. click on anyone and then click on OK :                                                                                                                             
 **If you don't know how to unzip zip files on the pi, [Click here](https://magpi.raspberrypi.org/articles/unzip-and-uncompress-files-on-a-raspberry-pi).**
 
 ![2021-04-03-153841_1920x1080_scrot](https://user-images.githubusercontent.com/79406608/113479468-f6694a00-9497-11eb-81f7-d6ce0714912e.png)
