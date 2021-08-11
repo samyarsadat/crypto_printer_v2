@@ -1,5 +1,4 @@
 # Written by Samyar Sadat Akhavi;
-# Copyright © 2021 Samyar Projects.
 
 # Libraries :
 from pycoingecko import CoinGeckoAPI
