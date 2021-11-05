@@ -131,9 +131,9 @@ The file manager window will open. By default file manager opens in the director
 ![edited_1](https://user-images.githubusercontent.com/79406608/113502353-95438400-9534-11eb-9b01-8f000bfb3a7c.png)
 
 Inside the folder there are 3 main python codes : 
-1. Adafruit_Thermal.py (The "library" for the thermal printer from adafruit)
+1. Adafruit_Thermal.py (The "library" for the thermal printer from Adafruit)
 2. crypto_printer_V2.py (The main code for the project written by me)
-3. printertest.py (The test code for the thermal printer from adafruit)                                                                                                         
+3. printertest.py (The test code for the thermal printer from Adafruit)                                                                                                         
 
 The rest of the files and folders (directories) are for other purposes :
 1. README.md (This file that you are reading right now)
