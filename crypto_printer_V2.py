@@ -1,4 +1,4 @@
-# Written by Samyar Sadat Akhavi;
+# Written by Samyar Sadat Akhavi.
 
 # Libraries :
 from pycoingecko import CoinGeckoAPI
@@ -21,7 +21,7 @@ led = LED(24)
 led.off()
 
 
-#Functions :
+# Functions :
 def internet_stat():
         
     try:
