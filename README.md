@@ -160,7 +160,7 @@ To run the code click the Run button and to stop the code click the Stop button:
 ### Changing the currency of prices :
 
 You can change the currency that the prices are printed in.                                                                                                                     
-To do this, open the main (crypto_printer_V2.py) code in thonny (as described above) and scroll down to line 72:                                                               
+To do this, open the main (crypto_printer_V2.py) code in thonny (as described above) and scroll down to line 59:                                                               
 
 ![2021-04-03-194317_1920x1080_scrot](https://user-images.githubusercontent.com/79406608/113505999-c62eb380-954a-11eb-8f63-013f74c45cfb.png)
 
