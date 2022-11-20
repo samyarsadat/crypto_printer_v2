@@ -1,3 +1,7 @@
+## NOTE: This is an ancient project that no longer receives updates. For this reason, I have decided to archive this repo.
+
+<br>
+
 # Crypto Printer V2
 Get a paper hard copy of the price for some crypto currencies at the push of a button.
 
